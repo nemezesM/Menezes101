@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gabrielmenezes0904@gmail.com**
 
-- ⚡ Fun fact **I'm awlfull as a programmer, and the worst is that I'm learning it.**
+- ⚡ Fun fact **I'm awfull as a programmer, and the worst is, I'm learning how to be that.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
