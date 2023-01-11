@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Menezes, but you can call me Menezes ;)</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Menezes, but you can call me as Menezes ;)</h1>
 <h3 align="center">A student learning how to programm.</h3>
 
 - 🌱 I’m currently learning **some languages like Java, Javascript, HTML and CSS.**
